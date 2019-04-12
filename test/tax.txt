@@ -1,0 +1,3 @@
+AY224383.3948.6873	D_0__Bacteria;D_1__Firmicutes;D_2__Bacilli;D_3__Bacillales;D_4__Bacillaceae;D_5__Bacillus;D_6__Bacillus
+AY244358.1.2796	D_0__Bacteria;D_1__Proteobacteria;D_2__Alphaproteobacteria;D_3__Rhizobiales;D_4__Rhizobiaceae;D_5__Mesorhizobium;D_6__Mesorhizobium
+AY244366.1.2800	D_0__Bacteria;D_1__Proteobacteria;D_2__Alphaproteobacteria;D_3__Rhizobiales;D_4__Rhizobiaceae;D_5__Mesorhizobium;D_6__Mesorhizobium

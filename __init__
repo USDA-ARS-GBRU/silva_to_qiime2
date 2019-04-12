@@ -1,0 +1,2 @@
+import silva_to_qiime2.main
+__all__ = ["main"]
